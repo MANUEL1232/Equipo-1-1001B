@@ -1,4 +1,5 @@
-#**Team repository**
+
+# Team repository
 
 
 ## Manuel carbajal
@@ -11,4 +12,7 @@ $c= \sqrt{a\times a + b\times b}$
 
 
 ## Erick Morales
+
+
+
 
